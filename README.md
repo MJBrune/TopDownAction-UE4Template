@@ -4,6 +4,8 @@ This is a UE4 template to create a top down action game such as Heat Signature o
 ### Usage
 This would be a great template to go off of when creating games much like hotline miami or heat signature. It has basic controls setup in order
 
+Looks like this:
+![Alt text](Capture.PNG?raw=true)
 
 ### Commit Guide
 
